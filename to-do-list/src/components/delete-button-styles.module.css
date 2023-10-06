@@ -1,0 +1,13 @@
+.delTaskButton {
+	background: none;
+	border: none;
+	cursor: pointer;
+	padding: 0;
+	margin-left: 20px;
+  }
+
+  .delTaskButton svg {
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+  }

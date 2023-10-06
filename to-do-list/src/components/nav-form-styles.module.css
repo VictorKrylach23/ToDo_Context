@@ -1,0 +1,14 @@
+.inputLine {
+	width: 20%;
+}
+
+.navForm {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+
+.textForAddInput{
+	margin-right: 20px;
+	Color: #fff;
+}
